@@ -1,4 +1,4 @@
-package register
+package wormhole
 
 type Location byte
 
